@@ -1,17 +1,18 @@
 # Introduction
 Some components that speed up and reduce resource cost for original ALLHiC.
 
-## Dependencies    
-* pysam    
-* numpy    
-* matplotlib    
-* jcvi    
-* h5py
+## Dependencies
+- Python Modules
+  * pysam    
+  * numpy    
+  * matplotlib    
+  * jcvi    
+  * h5py
 
 ## Installation
 ```bash
-git clone https://github.com/sc-zhang/ALLHiC_components.git
-cd ALLHiC_components
+git clone https://github.com/sc-zhang/ALLHiC_extensions.git
+cd ALLHiC_extensions
 chmod +x bin/*.*
 
 # install ALLHiC_prune
