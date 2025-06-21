@@ -1,5 +1,5 @@
 # Introduction
-Some components that speed up and reduce resource cost for original ALLHiC.
+Some components that speed up and reduce resource cost for original [ALLHiC](<https://github.com/tangerzhang/ALLHiC>).
 
 ## Dependencies
 - Python Modules
